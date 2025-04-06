@@ -1,3 +1,4 @@
+from python:3.12
 import os
 import boto3
 import mimetypes
